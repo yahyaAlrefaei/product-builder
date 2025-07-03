@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  padding-top: 50px
+}
+
+*:focus-visible,
+*:focus {
+  outline: 0 !important;
+}
+
+/* primary-color: #007bff; */
+/* primary-color: #5818c3; */
